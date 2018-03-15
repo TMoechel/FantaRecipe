@@ -1,0 +1,14 @@
+D:\Entwicklung\Projects\FantaRecipe\Solution1\FR.DataAccess\bin\Debug\FR.DataAccess.dll
+D:\Entwicklung\Projects\FantaRecipe\Solution1\FR.DataAccess\bin\Debug\FR.DataAccess.pdb
+D:\Entwicklung\Projects\FantaRecipe\Solution1\FR.DataAccess\bin\Debug\Antlr3.Runtime.dll
+D:\Entwicklung\Projects\FantaRecipe\Solution1\FR.DataAccess\bin\Debug\Iesi.Collections.dll
+D:\Entwicklung\Projects\FantaRecipe\Solution1\FR.DataAccess\bin\Debug\NHibernate.dll
+D:\Entwicklung\Projects\FantaRecipe\Solution1\FR.DataAccess\bin\Debug\Remotion.Linq.dll
+D:\Entwicklung\Projects\FantaRecipe\Solution1\FR.DataAccess\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Entwicklung\Projects\FantaRecipe\Solution1\FR.DataAccess\bin\Debug\Antlr3.Runtime.xml
+D:\Entwicklung\Projects\FantaRecipe\Solution1\FR.DataAccess\bin\Debug\Iesi.Collections.xml
+D:\Entwicklung\Projects\FantaRecipe\Solution1\FR.DataAccess\bin\Debug\NHibernate.xml
+D:\Entwicklung\Projects\FantaRecipe\Solution1\FR.DataAccess\bin\Debug\Remotion.Linq.xml
+D:\Entwicklung\Projects\FantaRecipe\Solution1\FR.DataAccess\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\Entwicklung\Projects\FantaRecipe\Solution1\FR.DataAccess\obj\Debug\FR.DataAccess.dll
+D:\Entwicklung\Projects\FantaRecipe\Solution1\FR.DataAccess\obj\Debug\FR.DataAccess.pdb
